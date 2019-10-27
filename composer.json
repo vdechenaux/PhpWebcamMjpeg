@@ -1,0 +1,5 @@
+{
+    "require": {
+        "vdechenaux/webcam": "dev-master"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "f0daaae7ec83fc5d31370a6e1d31447f",
+    "packages": [
+        {
+            "name": "vdechenaux/webcam",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/vdechenaux/PhpWebcam.git",
+                "reference": "eec90b58a2465fbeefe4dac8a059b137e8f5b5d9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/vdechenaux/PhpWebcam/zipball/eec90b58a2465fbeefe4dac8a059b137e8f5b5d9",
+                "reference": "eec90b58a2465fbeefe4dac8a059b137e8f5b5d9",
+                "shasum": ""
+            },
+            "require": {
+                "ext-ffi": "*",
+                "php": ">=7.4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "VDX\\Webcam\\": "src/"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Vincent Dechenaux",
+                    "email": "vincent.dechenaux@gmail.com"
+                }
+            ],
+            "description": "PHP code to use the server's webcam",
+            "support": {
+                "source": "https://github.com/vdechenaux/PhpWebcam/tree/master",
+                "issues": "https://github.com/vdechenaux/PhpWebcam/issues"
+            },
+            "time": "2019-10-27T21:48:13+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "vdechenaux/webcam": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
