@@ -2,7 +2,7 @@
 
 use VDX\Webcam\Webcam;
 
-require_once 'vendor/autoload.php';
+require_once __DIR__.'/../vendor/autoload.php';
 
 $webcam = new Webcam();
 if (!$webcam->open()) {
