@@ -2,6 +2,10 @@
 
 Create a Mjpeg stream of a webcam using PHP
 
+## Introduction
+
+This project is a demo of the library [vdechenaux/webcam](https://github.com/vdechenaux/PhpWebcam)
+
 ## Usage
 
 ### Local PHP 7.4
