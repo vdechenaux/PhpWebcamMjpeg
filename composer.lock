@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/vdechenaux/PhpWebcam.git",
-                "reference": "eec90b58a2465fbeefe4dac8a059b137e8f5b5d9"
+                "reference": "c0d5deed7a50992546abe89f353207d23c9ef5ce"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/vdechenaux/PhpWebcam/zipball/eec90b58a2465fbeefe4dac8a059b137e8f5b5d9",
-                "reference": "eec90b58a2465fbeefe4dac8a059b137e8f5b5d9",
+                "url": "https://api.github.com/repos/vdechenaux/PhpWebcam/zipball/c0d5deed7a50992546abe89f353207d23c9ef5ce",
+                "reference": "c0d5deed7a50992546abe89f353207d23c9ef5ce",
                 "shasum": ""
             },
             "require": {
@@ -30,6 +30,7 @@
                     "VDX\\Webcam\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -40,11 +41,7 @@
                 }
             ],
             "description": "PHP code to use the server's webcam",
-            "support": {
-                "source": "https://github.com/vdechenaux/PhpWebcam/tree/master",
-                "issues": "https://github.com/vdechenaux/PhpWebcam/issues"
-            },
-            "time": "2019-10-27T21:48:13+00:00"
+            "time": "2019-11-01T11:31:37+00:00"
         }
     ],
     "packages-dev": [],
