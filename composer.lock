@@ -4,11 +4,11 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f0daaae7ec83fc5d31370a6e1d31447f",
+    "content-hash": "eca8beed14aa5c96f2db27213c98875b",
     "packages": [
         {
             "name": "vdechenaux/webcam",
-            "version": "dev-master",
+            "version": "0.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/vdechenaux/PhpWebcam.git",
@@ -47,9 +47,7 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "vdechenaux/webcam": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
